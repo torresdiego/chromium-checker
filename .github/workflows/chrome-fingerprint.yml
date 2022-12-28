@@ -1,0 +1,26 @@
+name: Chrome Fingerprint Count Notification
+
+on: 
+  push:
+    branches: 
+      - main
+    paths:
+      - 'current-fp.json'
+
+  workflow_dispatch:
+
+jobs:
+
+  slackNotification:
+    name: Slack Notification
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify chrome fingerprint target reached
+        if: startsWith(github.event.head_commit.message, 'TARGET')
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_COLOR: ${{ job.status }}
+          SLACK_TITLE: Fingerprint target reached! ✅ 💥 🚀 💯
+          SLACK_MESSAGE: ${{ github.event.head_commit.message }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_PERSONAL_WEBHOOK }}
+          SLACK_FOOTER: ${{ github.event.compare }}
