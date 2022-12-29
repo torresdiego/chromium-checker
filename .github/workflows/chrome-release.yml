@@ -19,5 +19,5 @@ jobs:
           SLACK_COLOR: ${{ job.status }}
           SLACK_TITLE: New Chrome version released! 🛑 😼 💪 ⚡
           SLACK_MESSAGE: ${{ github.event.release.tag_name }}
-          SLACK_WEBHOOK: ${{ secrets.SLACK_PERSONAL_WEBHOOK }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_KHENSHIN_WEBHOOK }}
           SLACK_FOOTER: ${{ github.event.release.html_url }}
