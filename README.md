@@ -2,7 +2,7 @@
 
 Current Version: `108.0.5359.125`
 
-Version Update: `2022-12-13T19:51:00Z`
+Version Update: `2022-12-13T22:51:00Z`
 
 Stable Release(s):
 ```
@@ -22,5 +22,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2022-12-28T07:00:01Z`
+###### Last Update: `2022-12-29T00:35:03Z`
         
