@@ -1,44 +1,53 @@
 # Chromium version
 
-Current Version: `111.0.5563.64`
+Current Version: `111.0.5563.65`
 
-Version Update: `2023-03-06T19:07:00Z`
+Version Update: `2023-03-07T19:25:00Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/110.0.5481.180/releases/1678129620",
+      "name": "chrome/platforms/win64/channels/stable/versions/110.0.5481.180/releases/1678217100",
       "serving": {
-        "startTime": "2023-03-06T19:07:00Z"
+        "startTime": "2023-03-07T19:25:00Z"
       },
-      "fraction": 0.001,
+      "fraction": 0.1,
       "version": "110.0.5481.180",
-      "fractionGroup": "90"
+      "fractionGroup": "102"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/111.0.5563.64/releases/1678129620",
+      "name": "chrome/platforms/win64/channels/stable/versions/111.0.5563.64/releases/1678217100",
       "serving": {
-        "startTime": "2023-03-06T19:07:00Z"
+        "startTime": "2023-03-07T19:25:00Z"
       },
-      "fraction": 0.001,
+      "fraction": 0.1,
       "version": "111.0.5563.64",
-      "fractionGroup": "90"
+      "fractionGroup": "102"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/110.0.5481.178/releases/1677706020",
+      "name": "chrome/platforms/win64/channels/stable/versions/110.0.5481.178/releases/1678217100",
       "serving": {
-        "startTime": "2023-03-01T21:27:00Z"
+        "startTime": "2023-03-07T19:25:00Z"
       },
-      "fraction": 0.998,
+      "fraction": 0.8,
       "version": "110.0.5481.178",
-      "fractionGroup": "90"
+      "fractionGroup": "102"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/111.0.5563.65/releases/1678217100",
+      "serving": {
+        "startTime": "2023-03-07T19:25:00Z"
+      },
+      "fraction": 1,
+      "version": "111.0.5563.65",
+      "fractionGroup": "101"
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2023-03-07T18:00:06Z`
+###### Last Update: `2023-03-07T20:00:08Z`
         
