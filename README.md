@@ -1,44 +1,53 @@
 # Chromium version
 
-Current Version: `113.0.5672.63`
+Current Version: `113.0.5672.64`
 
-Version Update: `2023-04-26T20:08:00Z`
+Version Update: `2023-05-02T19:45:00Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/112.0.5615.138/releases/1682540400",
+      "name": "chrome/platforms/win64/channels/stable/versions/112.0.5615.138/releases/1683056700",
       "serving": {
-        "startTime": "2023-04-26T20:20:00Z"
+        "startTime": "2023-05-02T19:45:00Z"
       },
-      "fraction": 0.995,
+      "fraction": 0.8,
       "version": "112.0.5615.138",
-      "fractionGroup": "90"
+      "fractionGroup": "96"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/112.0.5615.139/releases/1682540400",
+      "name": "chrome/platforms/win64/channels/stable/versions/112.0.5615.139/releases/1683056700",
       "serving": {
-        "startTime": "2023-04-26T20:20:00Z"
+        "startTime": "2023-05-02T19:45:00Z"
       },
-      "fraction": 0.0025,
+      "fraction": 0.1,
       "version": "112.0.5615.139",
-      "fractionGroup": "90"
+      "fractionGroup": "96"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.63/releases/1682540400",
+      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.63/releases/1683056700",
       "serving": {
-        "startTime": "2023-04-26T20:20:00Z"
+        "startTime": "2023-05-02T19:45:00Z"
       },
-      "fraction": 0.0025,
+      "fraction": 0.1,
       "version": "113.0.5672.63",
-      "fractionGroup": "90"
+      "fractionGroup": "96"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.64/releases/1683056700",
+      "serving": {
+        "startTime": "2023-05-02T19:45:00Z"
+      },
+      "fraction": 1,
+      "version": "113.0.5672.64",
+      "fractionGroup": "95"
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2023-05-02T18:00:04Z`
+###### Last Update: `2023-05-02T20:00:07Z`
         
