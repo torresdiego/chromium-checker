@@ -15,12 +15,12 @@ Stable Release(s):
       },
       "fraction": 1,
       "version": "113.0.5672.93",
-      "fractionGroup": "90"
+      "fractionGroup": "69"
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2023-05-15T18:00:06Z`
+###### Last Update: `2023-05-15T20:00:03Z`
         
