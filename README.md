@@ -9,12 +9,21 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.126/releases/1684260600",
+      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.126/releases/1684353420",
       "serving": {
-        "startTime": "2023-05-16T18:10:00Z"
+        "startTime": "2023-05-17T19:57:00Z"
       },
-      "fraction": 0.25,
+      "fraction": 0.5,
       "version": "113.0.5672.126",
+      "fractionGroup": "75"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.94/releases/1684353420",
+      "serving": {
+        "startTime": "2023-05-17T19:57:00Z"
+      },
+      "fraction": 0.5,
+      "version": "113.0.5672.94",
       "fractionGroup": "75"
     },
     {
@@ -25,29 +34,11 @@ Stable Release(s):
       "fraction": 1,
       "version": "113.0.5672.127",
       "fractionGroup": "74"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.93/releases/1684260600",
-      "serving": {
-        "startTime": "2023-05-16T18:10:00Z"
-      },
-      "fraction": 0.5,
-      "version": "113.0.5672.93",
-      "fractionGroup": "75"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.94/releases/1684260600",
-      "serving": {
-        "startTime": "2023-05-16T18:10:00Z"
-      },
-      "fraction": 0.25,
-      "version": "113.0.5672.94",
-      "fractionGroup": "75"
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2023-05-17T18:00:06Z`
+###### Last Update: `2023-05-17T20:00:05Z`
         
