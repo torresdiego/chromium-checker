@@ -1,44 +1,53 @@
 # Chromium version
 
-Current Version: `114.0.5735.45`
+Current Version: `114.0.5735.91`
 
-Version Update: `2023-05-24T22:29:00Z`
+Version Update: `2023-05-30T20:10:13Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.127/releases/1684967340",
+      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.127/releases/1685477413",
       "serving": {
-        "startTime": "2023-05-24T22:29:00Z"
+        "startTime": "2023-05-30T20:10:13.221420Z"
       },
-      "fraction": 0.995,
+      "fraction": 0.8,
       "version": "113.0.5672.127",
-      "fractionGroup": "69"
+      "fractionGroup": "75"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.128/releases/1684967340",
+      "name": "chrome/platforms/win64/channels/stable/versions/113.0.5672.129/releases/1685477413",
       "serving": {
-        "startTime": "2023-05-24T22:29:00Z"
+        "startTime": "2023-05-30T20:10:13.221420Z"
       },
-      "fraction": 0.0025,
-      "version": "113.0.5672.128",
-      "fractionGroup": "69"
+      "fraction": 0.1,
+      "version": "113.0.5672.129",
+      "fractionGroup": "75"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/114.0.5735.45/releases/1684967340",
+      "name": "chrome/platforms/win64/channels/stable/versions/114.0.5735.90/releases/1685477413",
       "serving": {
-        "startTime": "2023-05-24T22:29:00Z"
+        "startTime": "2023-05-30T20:10:13.221420Z"
       },
-      "fraction": 0.0025,
-      "version": "114.0.5735.45",
-      "fractionGroup": "69"
+      "fraction": 0.1,
+      "version": "114.0.5735.90",
+      "fractionGroup": "75"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/114.0.5735.91/releases/1685477413",
+      "serving": {
+        "startTime": "2023-05-30T20:10:13.221420Z"
+      },
+      "fraction": 1,
+      "version": "114.0.5735.91",
+      "fractionGroup": "74"
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2023-05-30T20:00:06Z`
+###### Last Update: `2023-05-30T22:00:07Z`
         
