@@ -1,44 +1,53 @@
 # Chromium version
 
-Current Version: `115.0.5790.98`
+Current Version: `115.0.5790.99`
 
-Version Update: `2023-07-17T17:44:00Z`
+Version Update: `2023-07-18T18:48:00Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/114.0.5735.201/releases/1689615840",
+      "name": "chrome/platforms/win64/channels/stable/versions/114.0.5735.199/releases/1689706080",
       "serving": {
-        "startTime": "2023-07-17T17:44:00Z"
+        "startTime": "2023-07-18T18:48:00Z"
       },
-      "fraction": 0.0025,
-      "version": "114.0.5735.201",
-      "fractionGroup": "69"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/115.0.5790.98/releases/1689615840",
-      "serving": {
-        "startTime": "2023-07-17T17:44:00Z"
-      },
-      "fraction": 0.0025,
-      "version": "115.0.5790.98",
-      "fractionGroup": "69"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/114.0.5735.199/releases/1689186600",
-      "serving": {
-        "startTime": "2023-07-12T18:30:00Z"
-      },
-      "fraction": 0.995,
+      "fraction": 0.8,
       "version": "114.0.5735.199",
-      "fractionGroup": "69"
+      "fractionGroup": "75"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/114.0.5735.201/releases/1689706080",
+      "serving": {
+        "startTime": "2023-07-18T18:48:00Z"
+      },
+      "fraction": 0.1,
+      "version": "114.0.5735.201",
+      "fractionGroup": "75"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/115.0.5790.98/releases/1689706080",
+      "serving": {
+        "startTime": "2023-07-18T18:48:00Z"
+      },
+      "fraction": 0.1,
+      "version": "115.0.5790.98",
+      "fractionGroup": "75"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/115.0.5790.99/releases/1689706080",
+      "serving": {
+        "startTime": "2023-07-18T18:48:00Z"
+      },
+      "fraction": 1,
+      "version": "115.0.5790.99",
+      "fractionGroup": "74"
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2023-07-18T18:02:20Z`
+###### Last Update: `2023-07-18T20:04:07Z`
         
