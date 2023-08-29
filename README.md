@@ -1,26 +1,53 @@
 # Chromium version
 
-Current Version: `116.0.5845.98`
+Current Version: `116.0.5845.141`
 
-Version Update: `2023-08-22T21:57:01Z`
+Version Update: `2023-08-29T17:28:00Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.111/releases/1692904931",
+      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.111/releases/1693330080",
       "serving": {
-        "startTime": "2023-08-24T19:22:11.892517Z"
+        "startTime": "2023-08-29T17:28:00Z"
+      },
+      "fraction": 0.5,
+      "version": "116.0.5845.111",
+      "fractionGroup": "75"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.112/releases/1693330080",
+      "serving": {
+        "startTime": "2023-08-29T17:28:00Z"
+      },
+      "fraction": 0.25,
+      "version": "116.0.5845.112",
+      "fractionGroup": "75"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.140/releases/1693330080",
+      "serving": {
+        "startTime": "2023-08-29T17:28:00Z"
+      },
+      "fraction": 0.25,
+      "version": "116.0.5845.140",
+      "fractionGroup": "75"
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.141/releases/1693330080",
+      "serving": {
+        "startTime": "2023-08-29T17:28:00Z"
       },
       "fraction": 1,
-      "version": "116.0.5845.111",
-      "fractionGroup": "69"
+      "version": "116.0.5845.141",
+      "fractionGroup": "74"
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2023-08-29T16:00:04Z`
+###### Last Update: `2023-08-29T18:00:05Z`
         
