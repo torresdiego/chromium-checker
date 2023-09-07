@@ -9,54 +9,36 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.142/releases/1694033312",
+      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.180/releases/1694111940",
       "serving": {
-        "startTime": "2023-09-06T20:48:32.936975Z"
+        "startTime": "2023-09-07T18:39:00Z"
       },
-      "fraction": 0.4975,
-      "version": "116.0.5845.142",
-      "fractionGroup": "75"
+      "fraction": 0.995,
+      "version": "116.0.5845.180",
+      "fractionGroup": "69"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.179/releases/1694033312",
+      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.181/releases/1694111940",
       "serving": {
-        "startTime": "2023-09-06T20:48:32.936975Z"
-      },
-      "fraction": 0.4975,
-      "version": "116.0.5845.179",
-      "fractionGroup": "75"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.181/releases/1694033312",
-      "serving": {
-        "startTime": "2023-09-06T20:48:32.936975Z"
+        "startTime": "2023-09-07T18:39:00Z"
       },
       "fraction": 0.0025,
       "version": "116.0.5845.181",
-      "fractionGroup": "75"
+      "fractionGroup": "69"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/117.0.5938.48/releases/1694033312",
+      "name": "chrome/platforms/win64/channels/stable/versions/117.0.5938.48/releases/1694111940",
       "serving": {
-        "startTime": "2023-09-06T20:48:32.936975Z"
+        "startTime": "2023-09-07T18:39:00Z"
       },
       "fraction": 0.0025,
       "version": "117.0.5938.48",
-      "fractionGroup": "75"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/116.0.5845.180/releases/1693934164",
-      "serving": {
-        "startTime": "2023-09-05T17:16:04.155691Z"
-      },
-      "fraction": 1,
-      "version": "116.0.5845.180",
-      "fractionGroup": "74"
+      "fractionGroup": "69"
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2023-09-07T18:00:06Z`
+###### Last Update: `2023-09-07T20:00:05Z`
         
