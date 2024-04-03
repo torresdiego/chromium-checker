@@ -9,29 +9,29 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/123.0.6312.105/releases/1712089036",
+      "name": "chrome/platforms/win64/channels/stable/versions/123.0.6312.105/releases/1712169337",
       "serving": {
-        "startTime": "2024-04-02T20:17:16.975492Z"
+        "startTime": "2024-04-03T18:35:37.732283Z"
       },
-      "fraction": 0.25,
+      "fraction": 0.5,
       "version": "123.0.6312.105",
       "fractionGroup": "69"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/123.0.6312.86/releases/1712089036",
+      "name": "chrome/platforms/win64/channels/stable/versions/123.0.6312.86/releases/1712169337",
       "serving": {
-        "startTime": "2024-04-02T20:17:16.975492Z"
+        "startTime": "2024-04-03T18:35:37.732283Z"
       },
-      "fraction": 0.5,
+      "fraction": 0,
       "version": "123.0.6312.86",
       "fractionGroup": "69"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/123.0.6312.88/releases/1712089036",
+      "name": "chrome/platforms/win64/channels/stable/versions/123.0.6312.88/releases/1712169337",
       "serving": {
-        "startTime": "2024-04-02T20:17:16.975492Z"
+        "startTime": "2024-04-03T18:35:37.732283Z"
       },
-      "fraction": 0.25,
+      "fraction": 0.5,
       "version": "123.0.6312.88",
       "fractionGroup": "69"
     }
@@ -40,5 +40,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2024-04-03T18:00:07Z`
+###### Last Update: `2024-04-03T20:00:05Z`
         
