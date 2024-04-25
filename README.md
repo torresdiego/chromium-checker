@@ -1,38 +1,38 @@
 # Chromium version
 
-Current Version: `124.0.6367.78`
+Current Version: `124.0.6367.91`
 
-Version Update: `2024-04-23T22:19:28Z`
+Version Update: `2024-04-25T19:20:57Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/124.0.6367.61/releases/1713985835",
+      "name": "chrome/platforms/win64/channels/stable/versions/124.0.6367.61/releases/1714072857",
       "serving": {
-        "startTime": "2024-04-24T19:10:35.162507Z"
+        "startTime": "2024-04-25T19:20:57.754810Z"
       },
-      "fraction": 0,
+      "fraction": 0.5,
       "version": "124.0.6367.61",
       "fractionGroup": "69"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/124.0.6367.62/releases/1713985835",
+      "name": "chrome/platforms/win64/channels/stable/versions/124.0.6367.63/releases/1714072857",
       "serving": {
-        "startTime": "2024-04-24T19:10:35.162507Z"
+        "startTime": "2024-04-25T19:20:57.754810Z"
       },
-      "fraction": 0.5,
-      "version": "124.0.6367.62",
+      "fraction": 0.25,
+      "version": "124.0.6367.63",
       "fractionGroup": "69"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/124.0.6367.78/releases/1713985835",
+      "name": "chrome/platforms/win64/channels/stable/versions/124.0.6367.91/releases/1714072857",
       "serving": {
-        "startTime": "2024-04-24T19:10:35.162507Z"
+        "startTime": "2024-04-25T19:20:57.754810Z"
       },
-      "fraction": 0.5,
-      "version": "124.0.6367.78",
+      "fraction": 0.25,
+      "version": "124.0.6367.91",
       "fractionGroup": "69"
     }
   ],
@@ -40,5 +40,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2024-04-25T18:00:08Z`
+###### Last Update: `2024-04-25T20:00:09Z`
         
