@@ -15,7 +15,7 @@ Stable Release(s):
       },
       "fraction": 0.25,
       "version": "125.0.6422.112",
-      "fractionGroup": "69"
+      "fractionGroup": "132"
     },
     {
       "name": "chrome/platforms/win64/channels/stable/versions/125.0.6422.77/releases/1716505209",
@@ -24,7 +24,7 @@ Stable Release(s):
       },
       "fraction": 0.5,
       "version": "125.0.6422.77",
-      "fractionGroup": "69"
+      "fractionGroup": "132"
     },
     {
       "name": "chrome/platforms/win64/channels/stable/versions/125.0.6422.78/releases/1716505209",
@@ -33,12 +33,12 @@ Stable Release(s):
       },
       "fraction": 0.25,
       "version": "125.0.6422.78",
-      "fractionGroup": "69"
+      "fractionGroup": "132"
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2024-05-27T14:00:07Z`
+###### Last Update: `2024-05-27T16:00:07Z`
         
