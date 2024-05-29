@@ -9,32 +9,12 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/125.0.6422.112/releases/1716931821",
+      "name": "chrome/platforms/win64/channels/stable/versions/125.0.6422.113/releases/1717013496",
       "serving": {
-        "startTime": "2024-05-28T21:30:21.743204Z"
+        "startTime": "2024-05-29T20:11:36.621415Z"
       },
-      "fraction": 0.5,
-      "version": "125.0.6422.112",
-      "fractionGroup": "144",
-      "pinnable": false
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/125.0.6422.77/releases/1716931821",
-      "serving": {
-        "startTime": "2024-05-28T21:30:21.743204Z"
-      },
-      "fraction": 0,
-      "version": "125.0.6422.77",
-      "fractionGroup": "144",
-      "pinnable": false
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/125.0.6422.78/releases/1716931821",
-      "serving": {
-        "startTime": "2024-05-28T21:30:21.743204Z"
-      },
-      "fraction": 0.5,
-      "version": "125.0.6422.78",
+      "fraction": 1,
+      "version": "125.0.6422.113",
       "fractionGroup": "144",
       "pinnable": false
     },
@@ -53,5 +33,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2024-05-29T20:00:06Z`
+###### Last Update: `2024-05-29T22:00:05Z`
         
