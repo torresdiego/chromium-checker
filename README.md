@@ -46,12 +46,12 @@ Stable Release(s):
       "fraction": 1,
       "version": "125.0.6422.142",
       "fractionGroup": "143",
-      "pinnable": false
+      "pinnable": true
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2024-06-03T20:00:07Z`
+###### Last Update: `2024-06-03T22:00:05Z`
         
