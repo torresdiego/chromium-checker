@@ -9,42 +9,42 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/126.0.6478.183/releases/1721336305",
+      "name": "chrome/platforms/win64/channels/stable/versions/126.0.6478.183/releases/1721764541",
       "serving": {
-        "startTime": "2024-07-18T20:58:25.633308Z"
+        "startTime": "2024-07-23T19:55:41.723493Z"
       },
-      "fraction": 0.995,
+      "fraction": 0.8,
       "version": "126.0.6478.183",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/126.0.6478.184/releases/1721238782",
+      "name": "chrome/platforms/win64/channels/stable/versions/126.0.6478.185/releases/1721764541",
       "serving": {
-        "startTime": "2024-07-17T17:53:02.483634Z"
+        "startTime": "2024-07-23T19:55:41.723493Z"
       },
-      "fraction": 0.0025,
-      "version": "126.0.6478.184",
+      "fraction": 0.1,
+      "version": "126.0.6478.185",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.57/releases/1721238782",
+      "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.72/releases/1721764541",
       "serving": {
-        "startTime": "2024-07-17T17:53:02.483634Z"
+        "startTime": "2024-07-23T19:55:41.723493Z"
       },
-      "fraction": 0.0025,
-      "version": "127.0.6533.57",
+      "fraction": 0.1,
+      "version": "127.0.6533.72",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/126.0.6478.183/releases/1721169013",
+      "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.73/releases/1721764541",
       "serving": {
-        "startTime": "2024-07-16T22:30:13.373400Z"
+        "startTime": "2024-07-23T19:55:41.723493Z"
       },
       "fraction": 1,
-      "version": "126.0.6478.183",
+      "version": "127.0.6533.73",
       "fractionGroup": "143",
       "pinnable": true
     }
@@ -53,5 +53,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2024-07-23T18:00:06Z`
+###### Last Update: `2024-07-23T20:00:05Z`
         
