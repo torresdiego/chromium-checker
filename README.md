@@ -9,6 +9,36 @@ Stable Release(s):
 {
   "releases": [
     {
+      "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.89/releases/1723059294",
+      "serving": {
+        "startTime": "2024-08-07T19:34:54.096433Z"
+      },
+      "fraction": 0,
+      "version": "127.0.6533.89",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.90/releases/1723059294",
+      "serving": {
+        "startTime": "2024-08-07T19:34:54.096433Z"
+      },
+      "fraction": 0.5,
+      "version": "127.0.6533.90",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.99/releases/1723059294",
+      "serving": {
+        "startTime": "2024-08-07T19:34:54.096433Z"
+      },
+      "fraction": 0.5,
+      "version": "127.0.6533.99",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
       "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.100/releases/1722967837",
       "serving": {
         "startTime": "2024-08-06T18:10:37.150851Z"
@@ -17,41 +47,11 @@ Stable Release(s):
       "version": "127.0.6533.100",
       "fractionGroup": "143",
       "pinnable": true
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.89/releases/1722967837",
-      "serving": {
-        "startTime": "2024-08-06T18:10:37.150851Z"
-      },
-      "fraction": 0.5,
-      "version": "127.0.6533.89",
-      "fractionGroup": "144",
-      "pinnable": false
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.90/releases/1722967837",
-      "serving": {
-        "startTime": "2024-08-06T18:10:37.150851Z"
-      },
-      "fraction": 0.25,
-      "version": "127.0.6533.90",
-      "fractionGroup": "144",
-      "pinnable": false
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/127.0.6533.99/releases/1722967837",
-      "serving": {
-        "startTime": "2024-08-06T18:10:37.150851Z"
-      },
-      "fraction": 0.25,
-      "version": "127.0.6533.99",
-      "fractionGroup": "144",
-      "pinnable": false
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2024-08-07T18:00:10Z`
+###### Last Update: `2024-08-08T00:00:12Z`
         
