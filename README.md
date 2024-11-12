@@ -1,50 +1,50 @@
 # Chromium version
 
-Current Version: `131.0.6778.33`
+Current Version: `131.0.6778.70`
 
-Version Update: `2024-11-06T19:59:20Z`
+Version Update: `2024-11-12T18:18:18Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/130.0.6723.117/releases/1731015243",
+      "name": "chrome/platforms/win64/channels/stable/versions/130.0.6723.117/releases/1731435498",
       "serving": {
-        "startTime": "2024-11-07T21:34:03.296605Z"
+        "startTime": "2024-11-12T18:18:18.602916Z"
       },
-      "fraction": 0.995,
+      "fraction": 0.8,
       "version": "130.0.6723.117",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/130.0.6723.118/releases/1730923160",
+      "name": "chrome/platforms/win64/channels/stable/versions/130.0.6723.119/releases/1731435498",
       "serving": {
-        "startTime": "2024-11-06T19:59:20.126794Z"
+        "startTime": "2024-11-12T18:18:18.602916Z"
       },
-      "fraction": 0.0025,
-      "version": "130.0.6723.118",
+      "fraction": 0.1,
+      "version": "130.0.6723.119",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/131.0.6778.33/releases/1730923160",
+      "name": "chrome/platforms/win64/channels/stable/versions/131.0.6778.69/releases/1731435498",
       "serving": {
-        "startTime": "2024-11-06T19:59:20.126794Z"
+        "startTime": "2024-11-12T18:18:18.602916Z"
       },
-      "fraction": 0.0025,
-      "version": "131.0.6778.33",
+      "fraction": 0.1,
+      "version": "131.0.6778.69",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/130.0.6723.117/releases/1730830086",
+      "name": "chrome/platforms/win64/channels/stable/versions/131.0.6778.70/releases/1731435498",
       "serving": {
-        "startTime": "2024-11-05T18:08:06.684616Z"
+        "startTime": "2024-11-12T18:18:18.602916Z"
       },
       "fraction": 1,
-      "version": "130.0.6723.117",
+      "version": "131.0.6778.70",
       "fractionGroup": "143",
       "pinnable": true
     }
@@ -53,5 +53,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2024-11-12T16:00:06Z`
+###### Last Update: `2024-11-12T20:02:15Z`
         
