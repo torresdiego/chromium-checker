@@ -9,12 +9,32 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/131.0.6778.108/releases/1733248290",
+      "name": "chrome/platforms/win64/channels/stable/versions/131.0.6778.108/releases/1733354016",
       "serving": {
-        "startTime": "2024-12-03T17:51:30.155156Z"
+        "startTime": "2024-12-04T23:13:36.908763Z"
       },
-      "fraction": 0.25,
+      "fraction": 0.5,
       "version": "131.0.6778.108",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/131.0.6778.86/releases/1733354016",
+      "serving": {
+        "startTime": "2024-12-04T23:13:36.908763Z"
+      },
+      "fraction": 0,
+      "version": "131.0.6778.86",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/131.0.6778.87/releases/1733354016",
+      "serving": {
+        "startTime": "2024-12-04T23:13:36.908763Z"
+      },
+      "fraction": 0.5,
+      "version": "131.0.6778.87",
       "fractionGroup": "144",
       "pinnable": false
     },
@@ -27,31 +47,11 @@ Stable Release(s):
       "version": "131.0.6778.109",
       "fractionGroup": "143",
       "pinnable": true
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/131.0.6778.86/releases/1733248290",
-      "serving": {
-        "startTime": "2024-12-03T17:51:30.155156Z"
-      },
-      "fraction": 0.5,
-      "version": "131.0.6778.86",
-      "fractionGroup": "144",
-      "pinnable": false
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/131.0.6778.87/releases/1733248290",
-      "serving": {
-        "startTime": "2024-12-03T17:51:30.155156Z"
-      },
-      "fraction": 0.25,
-      "version": "131.0.6778.87",
-      "fractionGroup": "144",
-      "pinnable": false
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2024-12-04T20:00:06Z`
+###### Last Update: `2024-12-05T00:00:06Z`
         
