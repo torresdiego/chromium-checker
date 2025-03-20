@@ -9,12 +9,12 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/134.0.6998.117/releases/1742407444",
+      "name": "chrome/platforms/win64/channels/stable/versions/134.0.6998.118/releases/1742498713",
       "serving": {
-        "startTime": "2025-03-19T18:04:04.320275Z"
+        "startTime": "2025-03-20T19:25:13.198329Z"
       },
-      "fraction": 0.25,
-      "version": "134.0.6998.117",
+      "fraction": 1,
+      "version": "134.0.6998.118",
       "fractionGroup": "144",
       "pinnable": false
     },
@@ -27,31 +27,11 @@ Stable Release(s):
       "version": "134.0.6998.118",
       "fractionGroup": "143",
       "pinnable": true
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/134.0.6998.89/releases/1742407444",
-      "serving": {
-        "startTime": "2025-03-19T18:04:04.320275Z"
-      },
-      "fraction": 0.5,
-      "version": "134.0.6998.89",
-      "fractionGroup": "144",
-      "pinnable": false
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/134.0.6998.90/releases/1742407444",
-      "serving": {
-        "startTime": "2025-03-19T18:04:04.320275Z"
-      },
-      "fraction": 0.25,
-      "version": "134.0.6998.90",
-      "fractionGroup": "144",
-      "pinnable": false
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2025-03-20T18:00:06Z`
+###### Last Update: `2025-03-20T20:00:04Z`
         
