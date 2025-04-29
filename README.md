@@ -1,50 +1,50 @@
 # Chromium version
 
-Current Version: `136.0.7103.48`
+Current Version: `136.0.7103.49`
 
-Version Update: `2025-04-23T19:12:25Z`
+Version Update: `2025-04-29T18:21:20Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/135.0.7049.115/releases/1745521865",
+      "name": "chrome/platforms/win64/channels/stable/versions/135.0.7049.115/releases/1745950880",
       "serving": {
-        "startTime": "2025-04-24T19:11:05.203266Z"
+        "startTime": "2025-04-29T18:21:20.248099Z"
       },
-      "fraction": 0.99,
+      "fraction": 0.8,
       "version": "135.0.7049.115",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/135.0.7049.116/releases/1745435545",
+      "name": "chrome/platforms/win64/channels/stable/versions/135.0.7049.116/releases/1745950880",
       "serving": {
-        "startTime": "2025-04-23T19:12:25.675875Z"
+        "startTime": "2025-04-29T18:21:20.248099Z"
       },
-      "fraction": 0.005,
+      "fraction": 0.1,
       "version": "135.0.7049.116",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/136.0.7103.48/releases/1745435545",
+      "name": "chrome/platforms/win64/channels/stable/versions/136.0.7103.48/releases/1745950880",
       "serving": {
-        "startTime": "2025-04-23T19:12:25.675875Z"
+        "startTime": "2025-04-29T18:21:20.248099Z"
       },
-      "fraction": 0.005,
+      "fraction": 0.1,
       "version": "136.0.7103.48",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/135.0.7049.115/releases/1745350183",
+      "name": "chrome/platforms/win64/channels/stable/versions/136.0.7103.49/releases/1745950880",
       "serving": {
-        "startTime": "2025-04-22T19:29:43.892896Z"
+        "startTime": "2025-04-29T18:21:20.248099Z"
       },
       "fraction": 1,
-      "version": "135.0.7049.115",
+      "version": "136.0.7103.49",
       "fractionGroup": "143",
       "pinnable": true
     }
@@ -53,5 +53,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2025-04-29T18:00:05Z`
+###### Last Update: `2025-04-29T20:00:05Z`
         
