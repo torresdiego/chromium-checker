@@ -1,20 +1,60 @@
 # Chromium version
 
-Current Version: `137.0.7151.41`
+Current Version: `137.0.7151.56`
 
-Version Update: `2025-05-21T15:04:42Z`
+Version Update: `2025-05-27T17:17:36Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/136.0.7103.114/releases/1747839882",
+      "name": "chrome/platforms/win64/channels/stable/versions/136.0.7103.114/releases/1748366256",
       "serving": {
-        "startTime": "2025-05-21T15:04:42.540156Z"
+        "startTime": "2025-05-27T17:17:36.489445Z"
       },
-      "fraction": 0.99,
+      "fraction": 0.792,
       "version": "136.0.7103.114",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/136.0.7103.116/releases/1748366256",
+      "serving": {
+        "startTime": "2025-05-27T17:17:36.489445Z"
+      },
+      "fraction": 0.099,
+      "version": "136.0.7103.116",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/137.0.7151.55/releases/1748366256",
+      "serving": {
+        "startTime": "2025-05-27T17:17:36.489445Z"
+      },
+      "fraction": 0.099,
+      "version": "137.0.7151.55",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/137.0.7151.56/releases/1748366256",
+      "serving": {
+        "startTime": "2025-05-27T17:17:36.489445Z"
+      },
+      "fraction": 1,
+      "version": "137.0.7151.56",
+      "fractionGroup": "143",
+      "pinnable": true
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/137.0.7151.56/releases/1748366256",
+      "serving": {
+        "startTime": "2025-05-27T17:17:36.489445Z"
+      },
+      "fraction": 0.005,
+      "version": "137.0.7151.56",
       "fractionGroup": "144",
       "pinnable": false
     },
@@ -27,31 +67,11 @@ Stable Release(s):
       "version": "136.0.7103.115",
       "fractionGroup": "144",
       "pinnable": false
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/137.0.7151.40/releases/1747839882",
-      "serving": {
-        "startTime": "2025-05-21T15:04:42.540156Z"
-      },
-      "fraction": 0.005,
-      "version": "137.0.7151.40",
-      "fractionGroup": "144",
-      "pinnable": false
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/137.0.7151.41/releases/1747839882",
-      "serving": {
-        "startTime": "2025-05-21T15:04:42.540156Z"
-      },
-      "fraction": 1,
-      "version": "137.0.7151.41",
-      "fractionGroup": "143",
-      "pinnable": true
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2025-05-27T16:00:05Z`
+###### Last Update: `2025-05-27T18:00:05Z`
         
