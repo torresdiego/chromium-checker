@@ -1,30 +1,50 @@
 # Chromium version
 
-Current Version: `138.0.7204.158`
+Current Version: `138.0.7204.169`
 
-Version Update: `2025-07-15T17:06:54Z`
+Version Update: `2025-07-22T20:06:46Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/138.0.7204.158/releases/1752785335",
+      "name": "chrome/platforms/win64/channels/stable/versions/138.0.7204.158/releases/1753214806",
       "serving": {
-        "startTime": "2025-07-17T20:48:55.768846Z"
+        "startTime": "2025-07-22T20:06:46.016731Z"
       },
-      "fraction": 1,
+      "fraction": 0.5,
       "version": "138.0.7204.158",
       "fractionGroup": "144",
       "pinnable": false
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/138.0.7204.158/releases/1752599214",
+      "name": "chrome/platforms/win64/channels/stable/versions/138.0.7204.159/releases/1753214806",
       "serving": {
-        "startTime": "2025-07-15T17:06:54.661668Z"
+        "startTime": "2025-07-22T20:06:46.016731Z"
+      },
+      "fraction": 0.25,
+      "version": "138.0.7204.159",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/138.0.7204.168/releases/1753214806",
+      "serving": {
+        "startTime": "2025-07-22T20:06:46.016731Z"
+      },
+      "fraction": 0.25,
+      "version": "138.0.7204.168",
+      "fractionGroup": "144",
+      "pinnable": false
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/138.0.7204.169/releases/1753214806",
+      "serving": {
+        "startTime": "2025-07-22T20:06:46.016731Z"
       },
       "fraction": 1,
-      "version": "138.0.7204.158",
+      "version": "138.0.7204.169",
       "fractionGroup": "143",
       "pinnable": true
     }
@@ -33,5 +53,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2025-07-22T20:00:05Z`
+###### Last Update: `2025-07-22T22:00:11Z`
         
