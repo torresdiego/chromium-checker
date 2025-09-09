@@ -1,39 +1,75 @@
 # Chromium version
 
-Current Version: `140.0.7339.81`
+Current Version: `140.0.7339.82`
 
-Version Update: `2025-09-02T21:00:49Z`
+Version Update: `2025-09-09T20:49:29Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/140.0.7339.81/releases/1757364967",
+      "name": "chrome/platforms/win64/channels/stable/versions/140.0.7339.127/releases/1757450969",
       "serving": {
-        "startTime": "2025-09-08T20:56:07.856758Z"
+        "startTime": "2025-09-09T20:49:29.998894Z"
+      },
+      "fraction": 0.25,
+      "version": "140.0.7339.127",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "140.0.7339.127 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/140.0.7339.128/releases/1757450969",
+      "serving": {
+        "startTime": "2025-09-09T20:49:29.998894Z"
       },
       "fraction": 1,
+      "version": "140.0.7339.128",
+      "fractionGroup": "151",
+      "pinnable": true,
+      "rolloutData": []
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/140.0.7339.81/releases/1757450969",
+      "serving": {
+        "startTime": "2025-09-09T20:49:29.998894Z"
+      },
+      "fraction": 0.5,
       "version": "140.0.7339.81",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": []
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/140.0.7339.81/releases/1756846849",
+      "name": "chrome/platforms/win64/channels/stable/versions/140.0.7339.82/releases/1757450969",
       "serving": {
-        "startTime": "2025-09-02T21:00:49.191474Z"
+        "startTime": "2025-09-09T20:49:29.998894Z"
       },
-      "fraction": 1,
-      "version": "140.0.7339.81",
-      "fractionGroup": "151",
-      "pinnable": true,
-      "rolloutData": []
+      "fraction": 0.25,
+      "version": "140.0.7339.82",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "140.0.7339.127 Rollout",
+          "tag": [
+            "control"
+          ]
+        }
+      ]
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2025-09-09T20:00:08Z`
+###### Last Update: `2025-09-09T22:00:06Z`
         
