@@ -1,31 +1,67 @@
 # Chromium version
 
-Current Version: `141.0.7390.55`
+Current Version: `141.0.7390.56`
 
-Version Update: `2025-09-30T20:12:47Z`
+Version Update: `2025-10-07T19:30:44Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.55/releases/1759782209",
+      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.55/releases/1759865444",
       "serving": {
-        "startTime": "2025-10-06T20:23:29.642419Z"
+        "startTime": "2025-10-07T19:30:44.796758Z"
       },
-      "fraction": 1,
+      "fraction": 0.5,
       "version": "141.0.7390.55",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": []
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.55/releases/1759263167",
+      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.56/releases/1759865444",
       "serving": {
-        "startTime": "2025-09-30T20:12:47.023181Z"
+        "startTime": "2025-10-07T19:30:44.796758Z"
+      },
+      "fraction": 0.25,
+      "version": "141.0.7390.56",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "141.0.7390.65 Rollout",
+          "tag": [
+            "control"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.65/releases/1759865444",
+      "serving": {
+        "startTime": "2025-10-07T19:30:44.796758Z"
+      },
+      "fraction": 0.25,
+      "version": "141.0.7390.65",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "141.0.7390.65 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.66/releases/1759865444",
+      "serving": {
+        "startTime": "2025-10-07T19:30:44.796758Z"
       },
       "fraction": 1,
-      "version": "141.0.7390.55",
+      "version": "141.0.7390.66",
       "fractionGroup": "151",
       "pinnable": true,
       "rolloutData": []
@@ -35,5 +71,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2025-10-07T18:00:04Z`
+###### Last Update: `2025-10-07T20:00:05Z`
         
