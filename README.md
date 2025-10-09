@@ -9,51 +9,15 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.55/releases/1759865444",
+      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.66/releases/1760038783",
       "serving": {
-        "startTime": "2025-10-07T19:30:44.796758Z"
+        "startTime": "2025-10-09T19:39:43.314231Z"
       },
-      "fraction": 0.5,
-      "version": "141.0.7390.55",
+      "fraction": 1,
+      "version": "141.0.7390.66",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": []
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.56/releases/1759865444",
-      "serving": {
-        "startTime": "2025-10-07T19:30:44.796758Z"
-      },
-      "fraction": 0.25,
-      "version": "141.0.7390.56",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "141.0.7390.65 Rollout",
-          "tag": [
-            "control"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.65/releases/1759865444",
-      "serving": {
-        "startTime": "2025-10-07T19:30:44.796758Z"
-      },
-      "fraction": 0.25,
-      "version": "141.0.7390.65",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "141.0.7390.65 Rollout",
-          "tag": [
-            "rollout"
-          ]
-        }
-      ]
     },
     {
       "name": "chrome/platforms/win64/channels/stable/versions/141.0.7390.66/releases/1759865444",
@@ -71,5 +35,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2025-10-09T18:00:05Z`
+###### Last Update: `2025-10-09T20:00:05Z`
         
